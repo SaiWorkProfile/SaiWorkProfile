@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Turubilli sairam
-- I have done my btech in electronics and communication engineering from Gayatri vidya Parishad college for degree and pg courses 
-- Skills: core java,html,css, javascript and sql.
-- present preparation for job Interview
-- 2022 graduate
-- Fresher.
+ 👋 Hi, I'm Sai Ram!
+
+🎮 Unity Game Developer | ☕ Spring Boot Backend Developer
+
+## 🔧 Technologies I Work With
+- 🔷 Unity (C#, 2D/3D Games, UI, Animations, NavMesh)
+- 🌱 Spring Boot (REST APIs, Microservices, JPA, Security)
+- 💻 Other: MySQL, HTML/CSS, JavaScript, React
 
 <!---
 SaiWorkProfile/SaiWorkProfile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
